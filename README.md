@@ -39,12 +39,17 @@ Does purchase history data support continuing alcohol expansion?
 If YES: Continue alcohol expansion.(What marketing insights can we collect from data?) / NO: Pivot
 
 ## Result
-YES, Instacart should continue expanding alcohol service after data analysis on six areas showed positive results.
 
-High Demand
-Cross-Selling Potential
-Up-Selling Potential
-Position in Cart
-Reordered Rate
-Order Gap
+* Does the data support the alcohol expansion? --->   YES
+
+✔Demand (8% Users)   ✔Cross-Selling 
+✔Up-Selling   ✔Position in Cart  ✔Reordered Ratio  ✔ Order Gap 
+
+* What marketing insights can we collect from data? 
+
+TIMING
+
+BEST SELLERS
+
+Alcohol & Grocery Pairs
 
