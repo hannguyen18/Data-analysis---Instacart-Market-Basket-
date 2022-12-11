@@ -30,7 +30,9 @@ This project takes a deeper look at the performance of the alcohol segment up to
 ## Summary 
 
 Step 1: Data Wrangling (Merge - SQL, Data upload (Jupyter Notebook), Data cleaning (Python), Storage (AWS)
+
 Step 2: EDA (Visualization - Python, MS-Excel, PowerBI; Validation (SQL)
+
 Step 3: Recommender Model (Python, Statistics)
 
 ## Purpose
