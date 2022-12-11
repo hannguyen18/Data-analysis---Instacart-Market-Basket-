@@ -20,12 +20,10 @@ There are problem and business questions to explore. The most essential thing is
 Instacart is an American company that operates a grocery delivery and pick-up service in the United States and Canada. 
 The company offers its services via a website and mobile app. 
 The service allows customers to order groceries from participating retailers with the shopping being done by a personal shopper.
-The online grocery landscape is characterized by increasing competition, including some backed by large companies linked to Instacart 
-(such as AmazonFresh + Whole Foods, the most well-known Instacart partner until 2018). 
+ 
 In the last few years, Instacart has spent resources on building a competitive advantage expanding alcohol delivery, increasing user engagegement, and launching outside the United States. 
-In 2019, Instacart delivers alcohol in 14 states plus Washington DC. 
 
-This project takes a deeper look at the performance of the alcohol segment up to 2017. By collecting data and its relation to the grocery core business.
+This project takes a deeper look at the performance of the alcohol segment up to 2017. By collecting data and its relation to the grocery business.
 
 ## Summary 
 
